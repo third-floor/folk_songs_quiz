@@ -6,37 +6,37 @@ const buttons = document.querySelectorAll('button');
 const questions = [
     // ... (similar format as in the given code)
     {
-        "image": "./images/callthehorsemarrow.png",
+        "image": "callthehorsemarrow.png",
         "options": ["The Collier Lass", "Call the Horse, Marrow", "The Bold Miner", "Jacky in the Law Raw"],
         "answer": "Call the Horse, Marrow"
         },
         {
-        "image": "./images/jackyinthelawraw.png",
+        "image": "jackyinthelawraw.png",
         "options": ["The Collier Lass", "The Collier", "The Bold Miner", "Jacky in the Law Raw"],
         "answer": "Jacky in the Law Raw"
         },
         {
-        "image": "./images/theboldminer.png",
+        "image": "theboldminer.png",
         "options": ["The Collier Lass", "The Collier", "The Bold Miner", "The Miner’s Life"],
         "answer": "The Bold Miner"
         },
         {
-        "image": "./images/thecollier.png",
+        "image": "thecollier.png",
         "options": ["The Collier Lass", "The Collier", "Jacky in the Law Raw", "The Miner’s Life"],
         "answer": "The Collier"
         },
         {
-        "image": "./images/thecollierlass.png",
+        "image": "thecollierlass.png",
         "options": ["The Collier Lass", "The Bold Miner", "Jacky in the Law Raw", "Call the Horse, Marrow"],
         "answer": "The Collier Lass"
         },
         {
-        "image": "./images/thecolliersrant.png",
+        "image": "thecolliersrant.png",
         "options": ["The Miner’s Life", "The Bold Miner", "The Collier’s Rant", "Call the Horse, Marrow"],
         "answer": "The Collier’s Rant"
         },
         {
-        "image": "./images/theminerslife.png",
+        "image": "theminerslife.png",
         "options": ["The Miner’s Life", "The Bold Miner", "The Collier’s Rant", "Call the Horse, Marrow"],
         "answer": "The Miner’s Life"
         },
